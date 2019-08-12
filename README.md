@@ -1,5 +1,9 @@
 # D3 Heat Map
 
+## Data Set (provided by Free Code Camp)
+
+[Global Temperature Data](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json)
+
 ## User Stories
 
 - User can see a heat map of montly land temperatures throughout the years
@@ -15,4 +19,3 @@
 ## Technologies
 
 - D3.js version 5.7.0 - [Documentation](https://github.com/d3/d3/wiki)
-
